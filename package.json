@@ -1,0 +1,21 @@
+{
+  "name": "site-promofix",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "lucide-react": "^0.545.0",
+    "next": "15.5.4",
+    "nodemailer": "^7.0.10",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "postcss": "^8.0.0"
+  }
+}
