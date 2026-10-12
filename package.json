@@ -2,12 +2,12 @@
   "name": "site-promofix",
   "version": "0.1.0",
   "private": true,
-     "scripts": {
-     "dev": "next build --turbopack",
-     "dev:local": "next dev --turbopack",
-     "build": "next build --turbopack",
-     "start": "next start"
-   },
+  "scripts": {
+    "dev": "next build",
+    "dev:local": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "lucide-react": "^0.545.0",
     "next": "15.5.4",
